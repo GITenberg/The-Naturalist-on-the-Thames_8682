@@ -1,0 +1,25 @@
+_repo: The-Naturalist-on-the-Thames_8682
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cornish, C. J. (Charles John)
+    alias: Cornish, Charles John
+    birthdate: 1858
+    deathdate: 1906
+    gutenberg_agent_id: '2848'
+    url: http://www.gutenberg.org/2009/agents/2848
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8682'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thames River (England)'
+- !lcc 'QH'
+- GITenberg
+title: The Naturalist on the Thames
+url: http://www.gutenberg.org/ebooks/8682
